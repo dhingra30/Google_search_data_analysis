@@ -70,7 +70,7 @@ This project explores how search trends on Google relate to real-world data, suc
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/google-trends-analysis.git
+   git clone https://github.com/dhingra30/google-trends-analysis.git
    ```
 2. Navigate to the project directory:
    ```bash
